@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @adarsh0705
 - 👀 I’m interested in creating interesting new projects
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently working on Li-ion batteries- Degradation and Thermal Management
+- 🌱 I’m currently learning machine learning for BMS
 - 💞️ I’m looking to collaborate on real projects related to ML and BMS
 - 📫 How to reach me (dm: adarshsingh070596@gmail.com)
 - ⚡ Fun fact: Learning = Representation + Evaluation + Optimization
